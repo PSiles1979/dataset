@@ -1,166 +1,166 @@
-farmer,Cultivo ,comunidad,id,id2,pH,MO,N,P,K,Ca,Mg,Fe,Cu,Zn,Mn,da,clay,silt,sand,texture,A_in
-SANTOS MARTIN ARAGON AGUIRRE,cacao,sabalos,CAC_1,objetivo,5.2,3.71,0.19,0.64,0.343,14.599,5.290,104.43,1.70,3.36,127.80,1.30,39.0,36.0,25.0,Franco Arcillosa,2.28
-FLORENTIN GARCIA SEVILLA,cacao,sabalos,CAC_2,objetivo,5.4,3.47,0.17,0.37,0.223,17.811,5.789,131.49,2.02,4.18,359.98,1.24,37.0,34.0,29.0,Franco Arcillosa,1.04
-JOSE ARIEL OPORTA HERNANDEZ,cacao,sabalos,CAC_3,objetivo,5.9,4.50,0.23,2.48,0.466,29.790,9.788,51.62,5.42,3.15,232.01,1.29,31.0,26.0,43.0,Franco Arcillosa,0.26
-JULIO CORDONCILLO CONDEGA,cacao,sabalos,CAC_4,objetivo,5.8,4.44,0.22,1.32,0.122,10.064,1.874,67.51,27.19,4.39,223.66,1.25,59.0,32.0,9.0,Arcillosa,0.26
-GREGORIO ANTONIO MARIN MEJIA,cacao,sabalos,CAC_5,objetivo,5.5,3.21,0.16,0.14,0.440,18.385,5.150,116.90,1.06,1.48,382.66,1.28,47.0,28.0,25.0,Arcillosa,0.43
-REYNA ALVARADO LOPEZ,cacao,sabalos,CAC_6,objetivo,5.7,3.69,0.18,4.63,0.756,15.932,3.794,86.90,2.19,4.75,110.56,1.30,45.0,26.0,29.0,Arcillosa,0.26
-BISMARCK AVILEZ ALVAREZ,cacao,sabalos,CAC_7,objetivo,4.9,4.45,0.22,0.77,0.590,15.883,8.136,167.29,0.92,4.91,101.71,1.34,51.0,20.0,29.0,Arcillosa,5.02
-MELLYN ARASELY CANO TALENO,cacao,sabalos,CAC_8,objetivo,5.4,3.85,0.19,0.28,0.928,28.289,9.643,108.73,2.78,3.48,311.55,1.28,45.0,26.0,29.0,Arcillosa,2.98
-JOSEFINA PEREZ LOPEZ,cacao,sabalos,CAC_9,objetivo,5.0,3.71,0.19,0.41,0.556,11.260,5.602,76.09,1.39,2.31,133.23,1.31,65.0,14.0,21.0,Arcillosa,7.15
-SILVIA LUCIA MIRANDA ESCOBAR,cacao,sabalos,CAC_10,objetivo,5.1,4.38,0.22,0.33,0.152,3.625,0.987,175.07,0.35,0.85,75.44,1.20,57.0,22.0,21.0,Arcillosa,1.34
-PEDRO JOAQUIN GOMEZ FAJARDO,cacao,sabalos,CAC_11,objetivo,6.1,4.69,0.23,1.95,0.376,28.709,9.098,63.51,6.62,10.18,161.88,1.24,45.0,34.0,21.0,Arcillosa,0.52
-MARIA ISABEL LEON MIRANDA,cacao,sabalos,CAC_12,objetivo,7.4,5.18,0.26,2.91,1.010,20.562,1.356,251.27,22.56,4.87,159.08,1.17,57.0,24.0,19.0,Arcillosa,0.04
-JOSES ANTONIO TARDENSILLA DIAZ,cacao,sabalos,CAC_13,objetivo,5.8,5.89,0.29,3.31,0.496,10.371,2.523,137.93,6.06,4.08,367.41,1.17,45.0,36.0,19.0,Arcillosa,0.39
-OSCAR DANILO ARTOLA CASTILLO,cacao,sabalos,CAC_14,objetivo,6.1,4.14,0.21,1.94,0.822,22.745,8.141,65.05,1.84,2.55,130.18,1.17,63.0,22.0,15.0,Arcillosa,0.26
-CATALINA CANO GONZALES,cacao,sabalos,CAC_15,objetivo,5.6,4.63,0.23,1.69,0.341,13.942,4.522,93.41,7.78,3.92,495.49,1.29,55.0,22.0,23.0,Arcillosa,0.30
-PEDRO DANILO MONTANO,cacao,sabalos,CAC_16,objetivo,6.0,3.04,0.15,1.25,0.304,19.749,7.285,53.10,3.02,1.83,112.77,1.21,41.0,28.0,31.0,Arcillosa,0.35
-DOMINGO ANTONIO SEVILLA REGALADO,cacao,sabalos,CAC_17,objetivo,5.4,3.88,0.19,0.18,0.511,16.929,9.841,156.20,0.45,1.84,408.94,1.36,51.0,22.0,27.0,Arcillosa,0.61
-EMERITA MARTINEZ HERERA,cacao,sabalos,CAC_18,objetivo,5.9,3.72,0.19,0.22,0.360,28.019,12.073,36.10,7.10,3.67,204.79,1.28,51.0,24.0,25.0,Arcillosa,0.30
-CARLO ANTONIO SANDOVAL,cacao,sabalos,CAC_19,objetivo,5.1,3.15,0.16,0.16,0.197,11.872,5.147,103.16,0.72,3.41,566.14,1.29,53.0,20.0,27.0,Arcillosa,0.70
-JOSE NOEL LOIASIGA VASQUEZ,cacao,sabalos,CAC_20,objetivo,5.8,5.32,0.27,6.63,0.426,11.238,2.595,261.53,13.83,7.09,259.37,1.18,57.0,22.0,21.0,Arcillosa,0.35
-TOMAS HERNANDEZ CISNEROS,cacao,sabalos,CAC_21,objetivo,5.1,3.99,0.20,0.37,0.397,22.738,9.115,106.78,2.10,1.42,465.22,1.28,47.0,26.0,27.0,Arcillosa,0.44
-SANTOS JOSE POLANCO CENTENO,cacao,sabalos,CAC_22,objetivo,6.2,3.84,0.19,10.93,0.160,34.525,10.064,67.88,9.56,9.28,108.39,1.41,41.0,34.0,25.0,Arcillosa,0.00
-ILIANA BETZABE AGUINAGA GONZALEZ,cacao,sabalos,CAC_23,objetivo,5.7,4.14,0.21,1.37,0.597,31.726,8.740,74.24,2.00,5.14,98.80,1.24,49.0,20.0,31.0,Arcillosa,0.43
-DAVID DE JUSS GUSMAN MEJIA,cacao,sabalos,CAC_24,objetivo,6.0,2.80,0.14,0.65,0.227,24.935,7.252,55.41,9.52,1.97,123.51,1.28,50.1,26.9,23.0,Arcillosa,0.43
-ASAEL ANTONIO DAVILA HERNANDEZ,cacao,sabalos,CAC_25,objetivo,5.5,4.58,0.23,1.66,0.902,26.984,9.918,96.85,4.24,3.08,349.45,1.21,48.1,20.9,31.0,Arcillosa,1.65
-FERMIN SINFORIANO REYES FAJARDO,cacao,sabalos,CAC_26,objetivo,5.6,3.56,0.18,1.57,0.211,9.467,3.145,243.35,6.65,3.43,604.82,1.23,57.0,28.0,15.0,Arcillosa,0.35
-MANUEL ANTONIO URBINA ALVAREZ,cacao,sabalos,CAC_27,objetivo,5.5,3.20,0.16,0.90,0.504,43.898,11.733,132.68,2.27,3.18,111.49,1.31,50.1,22.9,27.0,Arcillosa,1.49
-FABIO ALEXANDER PINEDA MORALES,cacao,sabalos,CAC_28,objetivo,6.3,2.51,0.13,9.05,1.301,40.252,7.195,54.88,9.57,3.98,65.06,1.30,36.1,28.9,35.0,Franco Arcillosa,0.30
-JOSE ANTONIO CANO TALENO,cacao,sabalos,CAC_29,objetivo,5.6,3.87,0.19,1.01,0.932,36.210,9.828,40.27,10.71,2.30,79.01,1.33,52.1,26.9,21.0,Arcillosa,1.05
-HECTOR MIGUEL TAISIGUE ANGULO,cacao,sabalos,CAC_30,objetivo,5.8,3.97,0.20,0.96,0.181,10.080,2.386,185.58,19.97,4.06,500.71,1.30,66.1,20.9,13.0,Arcillosa,0.26
-IGNACIO PEREZ LOPEZ,cacao,sabalos,CAC_31,objetivo,5.3,4.52,0.23,0.14,0.174,9.610,2.809,125.54,2.35,4.04,420.72,1.22,58.0,22.1,19.9,Arcillosa,0.60
-FRANCISCO FARGA GUTIERES,cacao,sabalos,CAC_32,objetivo,6.0,3.44,0.17,10.80,0.667,16.049,2.696,160.98,7.13,7.83,331.01,1.24,45.3,32.8,21.9,Arcillosa,0.26
-ANASTACIO ANGULO ESCOBAR,cacao,sabalos,CAC_33,objetivo,6.2,4.19,0.21,2.40,1.084,35.367,7.622,15.36,4.71,1.84,77.53,1.22,37.3,28.8,33.9,Franco Arcillosa,0.26
-JUAN GUILLERMO ESPINOZA VILLAVICENCIO,cacao,sabalos,CAC_34,objetivo,6.9,3.44,0.17,0.15,0.921,29.963,8.159,49.54,10.33,10.47,208.10,1.29,53.3,44.8,1.9,Arcillo Limosa,0.26
-MERCEDES DIAZ JAIME,cacao,sabalos,CAC_35,objetivo,6.2,3.85,0.19,5.01,0.772,29.312,8.074,49.09,7.88,5.74,147.44,1.30,39.3,32.8,27.9,Franco Arcillosa,0.26
-GREGORIO FERNANDEZ LOPEZ,cacao,sabalos,CAC_36,objetivo,5.1,4.25,0.21,0.13,0.202,4.858,1.073,133.35,0.50,2.14,230.59,1.18,65.3,22.8,11.9,Arcillosa,4.08
-MEGUEL ANGEL GUTIERREZ LARA,cacao,sabalos,CAC_37,objetivo,5.7,4.52,0.23,3.95,0.367,8.594,1.856,145.35,8.42,2.89,59.59,1.53,61.3,18.8,19.9,Arcillosa,0.35
-MARLENE BRAVO GARCIA,cacao,sabalos,CAC_38,objetivo,6.5,3.45,0.17,7.39,0.668,13.754,2.424,83.37,15.43,7.49,251.14,1.20,35.3,32.8,31.9,Franco Arcillosa,0.22
-PABLO DE JESUS VASQUEZ VILCHEZ,cacao,sabalos,CAC_39,objetivo,5.8,3.04,0.15,2.41,0.279,17.619,8.139,49.72,4.28,1.70,193.54,1.14,39.3,30.8,29.9,Franco Arcillosa,0.43
-FRANCISCO JOSE URBINA ALVAREZ,cacao,sabalos,CAC_40,objetivo,5.3,3.32,0.17,1.23,0.327,30.563,6.462,162.99,0.67,0.72,174.05,1.30,43.3,22.8,33.9,Arcillosa,3.82
-ANGEL JUAN AGUIRRE CHAVALA,cacao,sabalos,CAC_41,objetivo,5.3,3.43,0.17,1.38,1.125,32.582,9.397,117.32,3.85,3.63,296.80,1.60,33.3,28.8,37.9,Franco Arcillosa,0.35
-MARCOS JOSE RODRIGUEZ ROCHA,cacao,sabalos,CAC_42,objetivo,5.9,4.63,0.23,0.27,0.531,44.571,11.446,27.47,9.02,4.33,114.81,1.25,47.3,22.8,29.9,Arcillosa,0.39
-GREGORIO GUZMAN OROZCO,cacao,sabalos,CAC_43,objetivo,5.0,5.67,0.28,0.36,0.569,15.723,4.072,109.39,2.11,3.66,405.97,1.22,59.3,22.8,17.9,Arcillosa,3.80
-JOSE VANEGA OCHOA,cacao,sabalos,CAC_44,objetivo,6.3,3.04,0.15,3.36,0.289,35.235,7.555,237.68,19.32,3.64,196.02,1.22,39.3,30.8,29.9,Franco Arcillosa,0.30
-BLAS CEFERINO GODINEZ CUNDANO,cacao,sabalos,CAC_45,objetivo,6.2,3.87,0.19,0.50,1.114,28.427,11.733,35.84,12.23,8.25,203.72,1.27,47.3,32.8,19.9,Arcillosa,0.26
-JUAN FERNANDEZ SEQUEIRA,cacao,sabalos,CAC_46,objetivo,5.9,3.88,0.19,9.82,0.635,32.027,7.140,73.69,4.44,4.87,181.85,1.19,33.3,24.8,41.9,Franco Arcillosa,0.39
-JUAN URBINA DUARTE,cacao,sabalos,CAC_47,objetivo,5.8,3.45,0.17,0.66,0.754,32.249,10.120,48.03,5.70,3.50,110.60,1.28,47.3,24.8,27.9,Arcillosa,0.83
-YESENIA DEL SOCORRO DIAZ QUIROZ,cacao,sabalos,CAC_48,objetivo,5.6,3.72,0.19,0.91,0.183,16.613,5.764,72.57,6.94,11.39,176.32,1.21,45.3,30.8,23.9,Arcillosa,0.56
-SIXTO ELVIN GARMENDIA TENORIO,cacao,sabalos,CAC_49,objetivo,5.9,5.14,0.26,1.15,0.939,21.394,6.332,61.43,9.11,4.52,223.99,1.19,47.3,26.8,25.9,Arcillosa,0.34
-NOEL ANTONIO TAISIGUE ANGULO,cacao,sabalos,CAC_50,objetivo,5.9,2.80,0.14,3.85,0.309,13.937,3.051,144.03,3.65,3.83,117.52,1.21,57.3,23.7,19.0,Arcillosa,0.26
-HECTOR QUINTIN TORUÑO TORREZ,cacao,sabalos,CAC_51,objetivo,5.8,3.34,0.17,0.92,0.404,29.818,9.905,32.90,2.35,4.79,177.76,1.23,47.3,29.7,23.0,Arcillosa,0.70
-GERONIMO JOSE KAUFFMAN HURTADO,cacao,sabalos,CAC_52,objetivo,6.2,3.01,0.15,4.79,0.342,37.806,8.285,66.19,7.12,4.21,127.48,1.29,37.3,39.7,23.0,Franco Arcillosa,0.35
-MARGARITO RAFAEL CISNERO LOPEZ,cacao,sabalos,CAC_53,objetivo,5.7,3.23,0.16,5.72,0.447,36.537,6.453,125.32,10.64,9.29,112.12,1.25,45.3,33.7,21.0,Arcillosa,0.64
-OMAR ROJAS ESPINALES,cacao,sabalos,CAC_54,objetivo,5.8,3.45,0.17,0.94,0.364,19.904,5.209,70.90,4.32,9.78,365.35,1.29,63.3,17.7,19.0,Arcillosa,0.35
-LUIZ ANTONIO ALTAMIRANO LUMBIZ,cacao,sabalos,CAC_55,objetivo,5.8,3.92,0.20,3.98,0.717,10.796,2.541,189.45,5.24,5.77,116.11,1.17,57.3,21.7,21.0,Arcillosa,0.30
-Jose Adolfo Lopez Rivera,Pasto,San Benito ,PAS01,otro,6.0,2.23,0.11,3.9,0.550,15.130,3.454,155.5,5.0,0.9,108.4,1.16,35.76,26.72,37.52,Franco Arcilloso,0.6
-Eleazar Aguilar,Pasto,San Benito ,PAS02,otro,6.1,3.11,0.16,3.1,0.706,9.490,2.695,155.5,7.2,5.2,133.2,1.25,45.76,34.72,19.52,Arcilloso,0.5
+farmer,Cultivo,comunidad,id,id2,pH,MO,N,P,K,Ca,Mg,Fe,Cu,Zn,Mn,da,clay,silt,sand,texture,A_in
+SANTOS MARTIN ARAGON AGUIRRE,Cacao,sabalos,CAC_1,objetivo,5.2,3.71,0.19,0.64,0.343,14.599,5.29,104.43,1.7,3.36,127.8,1.3,39,36,25,Franco Arcillosa,2.28
+FLORENTIN GARCIA SEVILLA,Cacao,sabalos,CAC_2,objetivo,5.4,3.47,0.17,0.37,0.223,17.811,5.789,131.49,2.02,4.18,359.98,1.24,37,34,29,Franco Arcillosa,1.04
+JOSE ARIEL OPORTA HERNANDEZ,Cacao,sabalos,CAC_3,objetivo,5.9,4.5,0.23,2.48,0.466,29.79,9.788,51.62,5.42,3.15,232.01,1.29,31,26,43,Franco Arcillosa,0.26
+JULIO CORDONCILLO CONDEGA,Cacao,sabalos,CAC_4,objetivo,5.8,4.44,0.22,1.32,0.122,10.064,1.874,67.51,27.19,4.39,223.66,1.25,59,32,9,Arcillosa,0.26
+GREGORIO ANTONIO MARIN MEJIA,Cacao,sabalos,CAC_5,objetivo,5.5,3.21,0.16,0.14,0.44,18.385,5.15,116.9,1.06,1.48,382.66,1.28,47,28,25,Arcillosa,0.43
+REYNA ALVARADO LOPEZ,Cacao,sabalos,CAC_6,objetivo,5.7,3.69,0.18,4.63,0.756,15.932,3.794,86.9,2.19,4.75,110.56,1.3,45,26,29,Arcillosa,0.26
+BISMARCK AVILEZ ALVAREZ,Cacao,sabalos,CAC_7,objetivo,4.9,4.45,0.22,0.77,0.59,15.883,8.136,167.29,0.92,4.91,101.71,1.34,51,20,29,Arcillosa,5.02
+MELLYN ARASELY CANO TALENO,Cacao,sabalos,CAC_8,objetivo,5.4,3.85,0.19,0.28,0.928,28.289,9.643,108.73,2.78,3.48,311.55,1.28,45,26,29,Arcillosa,2.98
+JOSEFINA PEREZ LOPEZ,Cacao,sabalos,CAC_9,objetivo,5,3.71,0.19,0.41,0.556,11.26,5.602,76.09,1.39,2.31,133.23,1.31,65,14,21,Arcillosa,7.15
+SILVIA LUCIA MIRANDA ESCOBAR,Cacao,sabalos,CAC_10,objetivo,5.1,4.38,0.22,0.33,0.152,3.625,0.987,175.07,0.35,0.85,75.44,1.2,57,22,21,Arcillosa,1.34
+PEDRO JOAQUIN GOMEZ FAJARDO,Cacao,sabalos,CAC_11,objetivo,6.1,4.69,0.23,1.95,0.376,28.709,9.098,63.51,6.62,10.18,161.88,1.24,45,34,21,Arcillosa,0.52
+MARIA ISABEL LEON MIRANDA,Cacao,sabalos,CAC_12,objetivo,7.4,5.18,0.26,2.91,1.01,20.562,1.356,251.27,22.56,4.87,159.08,1.17,57,24,19,Arcillosa,0.04
+JOSES ANTONIO TARDENSILLA DIAZ,Cacao,sabalos,CAC_13,objetivo,5.8,5.89,0.29,3.31,0.496,10.371,2.523,137.93,6.06,4.08,367.41,1.17,45,36,19,Arcillosa,0.39
+OSCAR DANILO ARTOLA CASTILLO,Cacao,sabalos,CAC_14,objetivo,6.1,4.14,0.21,1.94,0.822,22.745,8.141,65.05,1.84,2.55,130.18,1.17,63,22,15,Arcillosa,0.26
+CATALINA CANO GONZALES,Cacao,sabalos,CAC_15,objetivo,5.6,4.63,0.23,1.69,0.341,13.942,4.522,93.41,7.78,3.92,495.49,1.29,55,22,23,Arcillosa,0.3
+PEDRO DANILO MONTANO,Cacao,sabalos,CAC_16,objetivo,6,3.04,0.15,1.25,0.304,19.749,7.285,53.1,3.02,1.83,112.77,1.21,41,28,31,Arcillosa,0.35
+DOMINGO ANTONIO SEVILLA REGALADO,Cacao,sabalos,CAC_17,objetivo,5.4,3.88,0.19,0.18,0.511,16.929,9.841,156.2,0.45,1.84,408.94,1.36,51,22,27,Arcillosa,0.61
+EMERITA MARTINEZ HERERA,Cacao,sabalos,CAC_18,objetivo,5.9,3.72,0.19,0.22,0.36,28.019,12.073,36.1,7.1,3.67,204.79,1.28,51,24,25,Arcillosa,0.3
+CARLO ANTONIO SANDOVAL,Cacao,sabalos,CAC_19,objetivo,5.1,3.15,0.16,0.16,0.197,11.872,5.147,103.16,0.72,3.41,566.14,1.29,53,20,27,Arcillosa,0.7
+JOSE NOEL LOIASIGA VASQUEZ,Cacao,sabalos,CAC_20,objetivo,5.8,5.32,0.27,6.63,0.426,11.238,2.595,261.53,13.83,7.09,259.37,1.18,57,22,21,Arcillosa,0.35
+TOMAS HERNANDEZ CISNEROS,Cacao,sabalos,CAC_21,objetivo,5.1,3.99,0.2,0.37,0.397,22.738,9.115,106.78,2.1,1.42,465.22,1.28,47,26,27,Arcillosa,0.44
+SANTOS JOSE POLANCO CENTENO,Cacao,sabalos,CAC_22,objetivo,6.2,3.84,0.19,10.93,0.16,34.525,10.064,67.88,9.56,9.28,108.39,1.41,41,34,25,Arcillosa,0
+ILIANA BETZABE AGUINAGA GONZALEZ,Cacao,sabalos,CAC_23,objetivo,5.7,4.14,0.21,1.37,0.597,31.726,8.74,74.24,2,5.14,98.8,1.24,49,20,31,Arcillosa,0.43
+DAVID DE JUSS GUSMAN MEJIA,Cacao,sabalos,CAC_24,objetivo,6,2.8,0.14,0.65,0.227,24.935,7.252,55.41,9.52,1.97,123.51,1.28,50.1,26.9,23,Arcillosa,0.43
+ASAEL ANTONIO DAVILA HERNANDEZ,Cacao,sabalos,CAC_25,objetivo,5.5,4.58,0.23,1.66,0.902,26.984,9.918,96.85,4.24,3.08,349.45,1.21,48.1,20.9,31,Arcillosa,1.65
+FERMIN SINFORIANO REYES FAJARDO,Cacao,sabalos,CAC_26,objetivo,5.6,3.56,0.18,1.57,0.211,9.467,3.145,243.35,6.65,3.43,604.82,1.23,57,28,15,Arcillosa,0.35
+MANUEL ANTONIO URBINA ALVAREZ,Cacao,sabalos,CAC_27,objetivo,5.5,3.2,0.16,0.9,0.504,43.898,11.733,132.68,2.27,3.18,111.49,1.31,50.1,22.9,27,Arcillosa,1.49
+FABIO ALEXANDER PINEDA MORALES,Cacao,sabalos,CAC_28,objetivo,6.3,2.51,0.13,9.05,1.301,40.252,7.195,54.88,9.57,3.98,65.06,1.3,36.1,28.9,35,Franco Arcillosa,0.3
+JOSE ANTONIO CANO TALENO,Cacao,sabalos,CAC_29,objetivo,5.6,3.87,0.19,1.01,0.932,36.21,9.828,40.27,10.71,2.3,79.01,1.33,52.1,26.9,21,Arcillosa,1.05
+HECTOR MIGUEL TAISIGUE ANGULO,Cacao,sabalos,CAC_30,objetivo,5.8,3.97,0.2,0.96,0.181,10.08,2.386,185.58,19.97,4.06,500.71,1.3,66.1,20.9,13,Arcillosa,0.26
+IGNACIO PEREZ LOPEZ,Cacao,sabalos,CAC_31,objetivo,5.3,4.52,0.23,0.14,0.174,9.61,2.809,125.54,2.35,4.04,420.72,1.22,58,22.1,19.9,Arcillosa,0.6
+FRANCISCO FARGA GUTIERES,Cacao,sabalos,CAC_32,objetivo,6,3.44,0.17,10.8,0.667,16.049,2.696,160.98,7.13,7.83,331.01,1.24,45.3,32.8,21.9,Arcillosa,0.26
+ANASTACIO ANGULO ESCOBAR,Cacao,sabalos,CAC_33,objetivo,6.2,4.19,0.21,2.4,1.084,35.367,7.622,15.36,4.71,1.84,77.53,1.22,37.3,28.8,33.9,Franco Arcillosa,0.26
+JUAN GUILLERMO ESPINOZA VILLAVICENCIO,Cacao,sabalos,CAC_34,objetivo,6.9,3.44,0.17,0.15,0.921,29.963,8.159,49.54,10.33,10.47,208.1,1.29,53.3,44.8,1.9,Arcillo Limosa,0.26
+MERCEDES DIAZ JAIME,Cacao,sabalos,CAC_35,objetivo,6.2,3.85,0.19,5.01,0.772,29.312,8.074,49.09,7.88,5.74,147.44,1.3,39.3,32.8,27.9,Franco Arcillosa,0.26
+GREGORIO FERNANDEZ LOPEZ,Cacao,sabalos,CAC_36,objetivo,5.1,4.25,0.21,0.13,0.202,4.858,1.073,133.35,0.5,2.14,230.59,1.18,65.3,22.8,11.9,Arcillosa,4.08
+MEGUEL ANGEL GUTIERREZ LARA,Cacao,sabalos,CAC_37,objetivo,5.7,4.52,0.23,3.95,0.367,8.594,1.856,145.35,8.42,2.89,59.59,1.53,61.3,18.8,19.9,Arcillosa,0.35
+MARLENE BRAVO GARCIA,Cacao,sabalos,CAC_38,objetivo,6.5,3.45,0.17,7.39,0.668,13.754,2.424,83.37,15.43,7.49,251.14,1.2,35.3,32.8,31.9,Franco Arcillosa,0.22
+PABLO DE JESUS VASQUEZ VILCHEZ,Cacao,sabalos,CAC_39,objetivo,5.8,3.04,0.15,2.41,0.279,17.619,8.139,49.72,4.28,1.7,193.54,1.14,39.3,30.8,29.9,Franco Arcillosa,0.43
+FRANCISCO JOSE URBINA ALVAREZ,Cacao,sabalos,CAC_40,objetivo,5.3,3.32,0.17,1.23,0.327,30.563,6.462,162.99,0.67,0.72,174.05,1.3,43.3,22.8,33.9,Arcillosa,3.82
+ANGEL JUAN AGUIRRE CHAVALA,Cacao,sabalos,CAC_41,objetivo,5.3,3.43,0.17,1.38,1.125,32.582,9.397,117.32,3.85,3.63,296.8,1.6,33.3,28.8,37.9,Franco Arcillosa,0.35
+MARCOS JOSE RODRIGUEZ ROCHA,Cacao,sabalos,CAC_42,objetivo,5.9,4.63,0.23,0.27,0.531,44.571,11.446,27.47,9.02,4.33,114.81,1.25,47.3,22.8,29.9,Arcillosa,0.39
+GREGORIO GUZMAN OROZCO,Cacao,sabalos,CAC_43,objetivo,5,5.67,0.28,0.36,0.569,15.723,4.072,109.39,2.11,3.66,405.97,1.22,59.3,22.8,17.9,Arcillosa,3.8
+JOSE VANEGA OCHOA,Cacao,sabalos,CAC_44,objetivo,6.3,3.04,0.15,3.36,0.289,35.235,7.555,237.68,19.32,3.64,196.02,1.22,39.3,30.8,29.9,Franco Arcillosa,0.3
+BLAS CEFERINO GODINEZ CUNDANO,Cacao,sabalos,CAC_45,objetivo,6.2,3.87,0.19,0.5,1.114,28.427,11.733,35.84,12.23,8.25,203.72,1.27,47.3,32.8,19.9,Arcillosa,0.26
+JUAN FERNANDEZ SEQUEIRA,Cacao,sabalos,CAC_46,objetivo,5.9,3.88,0.19,9.82,0.635,32.027,7.14,73.69,4.44,4.87,181.85,1.19,33.3,24.8,41.9,Franco Arcillosa,0.39
+JUAN URBINA DUARTE,Cacao,sabalos,CAC_47,objetivo,5.8,3.45,0.17,0.66,0.754,32.249,10.12,48.03,5.7,3.5,110.6,1.28,47.3,24.8,27.9,Arcillosa,0.83
+YESENIA DEL SOCORRO DIAZ QUIROZ,Cacao,sabalos,CAC_48,objetivo,5.6,3.72,0.19,0.91,0.183,16.613,5.764,72.57,6.94,11.39,176.32,1.21,45.3,30.8,23.9,Arcillosa,0.56
+SIXTO ELVIN GARMENDIA TENORIO,Cacao,sabalos,CAC_49,objetivo,5.9,5.14,0.26,1.15,0.939,21.394,6.332,61.43,9.11,4.52,223.99,1.19,47.3,26.8,25.9,Arcillosa,0.34
+NOEL ANTONIO TAISIGUE ANGULO,Cacao,sabalos,CAC_50,objetivo,5.9,2.8,0.14,3.85,0.309,13.937,3.051,144.03,3.65,3.83,117.52,1.21,57.3,23.7,19,Arcillosa,0.26
+HECTOR QUINTIN TORUÑO TORREZ,Cacao,sabalos,CAC_51,objetivo,5.8,3.34,0.17,0.92,0.404,29.818,9.905,32.9,2.35,4.79,177.76,1.23,47.3,29.7,23,Arcillosa,0.7
+GERONIMO JOSE KAUFFMAN HURTADO,Cacao,sabalos,CAC_52,objetivo,6.2,3.01,0.15,4.79,0.342,37.806,8.285,66.19,7.12,4.21,127.48,1.29,37.3,39.7,23,Franco Arcillosa,0.35
+MARGARITO RAFAEL CISNERO LOPEZ,Cacao,sabalos,CAC_53,objetivo,5.7,3.23,0.16,5.72,0.447,36.537,6.453,125.32,10.64,9.29,112.12,1.25,45.3,33.7,21,Arcillosa,0.64
+OMAR ROJAS ESPINALES,Cacao,sabalos,CAC_54,objetivo,5.8,3.45,0.17,0.94,0.364,19.904,5.209,70.9,4.32,9.78,365.35,1.29,63.3,17.7,19,Arcillosa,0.35
+LUIZ ANTONIO ALTAMIRANO LUMBIZ,cacao,sabalos,CAC_55,objetivo,5.8,3.92,0.2,3.98,0.717,10.796,2.541,189.45,5.24,5.77,116.11,1.17,57.3,21.7,21,Arcillosa,0.3
+Jose Adolfo Lopez Rivera,Pasto,San Benito ,PAS01,otro,6,2.23,0.11,3.9,0.55,15.13,3.454,155.5,5,0.9,108.4,1.16,35.76,26.72,37.52,Franco Arcilloso,0.6
+Eleazar Aguilar,Pasto,San Benito ,PAS02,otro,6.1,3.11,0.16,3.1,0.706,9.49,2.695,155.5,7.2,5.2,133.2,1.25,45.76,34.72,19.52,Arcilloso,0.5
 Jose Amelio Montenegro Mairena,Pasto,Wasaka Abajo,PAS03,otro,6.2,1.55,0.08,3.4,0.303,12.673,3.644,164.9,4.1,1.3,120.4,1.17,41.76,26.72,31.52,Arcilloso,0.4
-Maritza de los Angeles Dormuz Soza,Pasto,Wasaka Abajo,PAS04,otro,6.3,2.97,0.15,1.5,0.432,22.748,7.895,182.0,6.4,3.1,106.2,1.24,45.76,32.72,21.52,Arcilloso,0.4
+Maritza de los Angeles Dormuz Soza,Pasto,Wasaka Abajo,PAS04,otro,6.3,2.97,0.15,1.5,0.432,22.748,7.895,182,6.4,3.1,106.2,1.24,45.76,32.72,21.52,Arcilloso,0.4
 Sara Aura Flores Hernandez,Pasto,Hilipo no 1,PAS05,otro,6.3,2.64,0.13,10.3,0.222,11.274,4.248,182.6,6.8,3.1,112.1,1.28,35.76,36.72,27.52,Franco Arcilloso,0.4
-Josefa Benancia Jerez,Pasto,Hilipo no 1,PAS06,otro,6.2,1.46,0.07,4.0,0.214,10.468,3.260,169.2,5.4,0.8,116.7,1.28,35.76,34.72,29.52,Franco Arcilloso,0.4
+Josefa Benancia Jerez,Pasto,Hilipo no 1,PAS06,otro,6.2,1.46,0.07,4,0.214,10.468,3.26,169.2,5.4,0.8,116.7,1.28,35.76,34.72,29.52,Franco Arcilloso,0.4
 Bartolome Lopez,Pasto,Hilipo no 1,PAS07,otro,6.3,2.87,0.14,115.6,0.456,14.275,3.657,165.1,5.3,13.5,70.3,1.24,35.76,32.72,31.52,Franco Arcilloso,0.4
-Mery Davila Garcia,Pasto,Hilipo no 1,PAS08,otro,6.1,3.40,0.17,4.8,0.492,11.626,3.500,183.2,9.4,1.7,113.9,1.24,43.76,30.72,25.52,Arcilloso,0.4
-Simon Palacios Lopez,Pasto,Hilipo no 1,PAS09,otro,6.1,4.14,0.21,19.6,0.534,14.721,3.889,165.7,5.0,4.8,91.7,1.20,35.76,32.72,31.52,Franco Arcilloso,0.4
-Pedro Antonio Gonzalez,Pasto,Hilipo no 1,PAS10,otro,6.0,3.17,0.16,5.1,0.608,8.998,2.443,167.8,8.3,4.0,125.9,1.27,37.76,38.72,23.52,Franco Arcilloso,0.5
-Franclin Hernandez Garcia,Pasto,Hilipo no 1,PAS11,otro,5.9,2.30,0.11,12.6,0.849,12.954,4.001,183.8,5.1,2.8,97.1,1.25,35.04,31.44,33.52,Franco Arcilloso,0.4
-Isidro Flores Mairena,Pasto,Guapotalito,PAS12,otro,6.2,4.25,0.21,5.9,0.380,20.375,6.109,183.3,6.6,2.8,113.9,1.19,41.04,33.44,25.52,Arcilloso,0.4
-Jose Mercedes Aldana Flores ,Pasto,Guapotalito,PAS13,otro,6.0,3.83,0.19,5.3,0.915,13.522,4.418,178.7,3.8,2.3,119.2,1.10,41.04,28.72,30.24,Arcilloso,0.3
-Milton Ariel Gomez Centeno,Pasto,Guapotalito,PAS14,otro,6.7,2.29,0.11,11.0,0.807,17.359,4.643,179.2,6.2,1.7,77.5,1.35,33.76,22.00,44.24,Franco Arcilloso,0.4
-Jose Angel Aldana Flores,Pasto,Guapotalito,PAS15,otro,6.3,4.04,0.20,39.1,1.317,23.037,6.002,186.9,5.3,3.2,67.7,1.29,41.76,28.00,30.24,Arcilloso,0.5
-Leonardo Castillo Arauz,Pasto,Guapotalito,PAS16,otro,6.1,3.18,0.16,8.0,0.317,9.708,3.074,186.5,4.5,3.2,102.1,1.22,41.76,34.00,24.24,Arcilloso,0.4
-Laurence Isaac Travers Martinez,Pasto,Guapotalito,PAS17,otro,6.1,2.47,0.12,6.5,0.586,9.639,3.328,180.5,5.2,4.4,116.5,1.18,39.76,30.00,30.24,Arcilloso,0.8
-Carlos Jose Cabrera Toruño,Pasto,Guapotalito,PAS18,otro,6.0,2.79,0.14,7.9,0.250,13.796,4.460,175.2,6.1,1.3,86.3,1.17,43.04,26.72,30.24,Arcilloso,0.6
-Jose Luis Lopez Perez,Pasto,Guapotalito,PAS19,otro,6.1,3.33,0.17,4.7,0.359,14.135,3.923,180.5,5.0,1.3,112.7,1.22,45.04,30.72,24.24,Arcilloso,0.7
+Mery Davila Garcia,Pasto,Hilipo no 1,PAS08,otro,6.1,3.4,0.17,4.8,0.492,11.626,3.5,183.2,9.4,1.7,113.9,1.24,43.76,30.72,25.52,Arcilloso,0.4
+Simon Palacios Lopez,Pasto,Hilipo no 1,PAS09,otro,6.1,4.14,0.21,19.6,0.534,14.721,3.889,165.7,5,4.8,91.7,1.2,35.76,32.72,31.52,Franco Arcilloso,0.4
+Pedro Antonio Gonzalez,Pasto,Hilipo no 1,PAS10,otro,6,3.17,0.16,5.1,0.608,8.998,2.443,167.8,8.3,4,125.9,1.27,37.76,38.72,23.52,Franco Arcilloso,0.5
+Franclin Hernandez Garcia,Pasto,Hilipo no 1,PAS11,otro,5.9,2.3,0.11,12.6,0.849,12.954,4.001,183.8,5.1,2.8,97.1,1.25,35.04,31.44,33.52,Franco Arcilloso,0.4
+Isidro Flores Mairena,Pasto,Guapotalito,PAS12,otro,6.2,4.25,0.21,5.9,0.38,20.375,6.109,183.3,6.6,2.8,113.9,1.19,41.04,33.44,25.52,Arcilloso,0.4
+Jose Mercedes Aldana Flores ,Pasto,Guapotalito,PAS13,otro,6,3.83,0.19,5.3,0.915,13.522,4.418,178.7,3.8,2.3,119.2,1.1,41.04,28.72,30.24,Arcilloso,0.3
+Milton Ariel Gomez Centeno,Pasto,Guapotalito,PAS14,otro,6.7,2.29,0.11,11,0.807,17.359,4.643,179.2,6.2,1.7,77.5,1.35,33.76,22,44.24,Franco Arcilloso,0.4
+Jose Angel Aldana Flores,Pasto,Guapotalito,PAS15,otro,6.3,4.04,0.2,39.1,1.317,23.037,6.002,186.9,5.3,3.2,67.7,1.29,41.76,28,30.24,Arcilloso,0.5
+Leonardo Castillo Arauz,Pasto,Guapotalito,PAS16,otro,6.1,3.18,0.16,8,0.317,9.708,3.074,186.5,4.5,3.2,102.1,1.22,41.76,34,24.24,Arcilloso,0.4
+Laurence Isaac Travers Martinez,Pasto,Guapotalito,PAS17,otro,6.1,2.47,0.12,6.5,0.586,9.639,3.328,180.5,5.2,4.4,116.5,1.18,39.76,30,30.24,Arcilloso,0.8
+Carlos Jose Cabrera Toruño,Pasto,Guapotalito,PAS18,otro,6,2.79,0.14,7.9,0.25,13.796,4.46,175.2,6.1,1.3,86.3,1.17,43.04,26.72,30.24,Arcilloso,0.6
+Jose Luis Lopez Perez,Pasto,Guapotalito,PAS19,otro,6.1,3.33,0.17,4.7,0.359,14.135,3.923,180.5,5,1.3,112.7,1.22,45.04,30.72,24.24,Arcilloso,0.7
 Faustino Francisco Flores Centeno,Pasto,Guapotalito,PAS20,otro,6.2,5.23,0.26,6.9,0.463,15.527,6.481,178.4,5.6,4.1,110.7,1.29,53.04,28.72,18.24,Arcilloso,0.8
-Daniel Talavera Castro,Pasto,Guapotalito,PAS21,otro,6.3,2.90,0.15,4.9,0.255,19.873,6.599,177.2,4.6,1.2,107.3,1.20,49.04,32.72,18.24,Arcilloso,0.7
-Candida Rosa Savala,Pasto,Guapotalito,PAS22,otro,7.0,9.23,0.46,108.5,2.632,29.593,5.578,181.9,6.6,15.0,98.0,1.08,35.04,34.72,30.24,Franco Arcilloso,0.1
+Daniel Talavera Castro,Pasto,Guapotalito,PAS21,otro,6.3,2.9,0.15,4.9,0.255,19.873,6.599,177.2,4.6,1.2,107.3,1.2,49.04,32.72,18.24,Arcilloso,0.7
+Candida Rosa Savala,Pasto,Guapotalito,PAS22,otro,7,9.23,0.46,108.5,2.632,29.593,5.578,181.9,6.6,15,98,1.08,35.04,34.72,30.24,Franco Arcilloso,0.1
 Gladys Granado Gomez,Pasto,Guapotalito,PAS23,otro,6.3,3.75,0.19,33.7,0.445,24.255,4.837,182.1,7.8,3.4,81.8,1.18,43.04,34.72,22.24,Arcilloso,0.8
 Salvadora Gonzales Aldana,Pasto,Guapotalito,PAS24,otro,7.4,3.46,0.17,44.1,0.488,26.907,4.191,173.7,7.7,3.6,83.4,1.28,37.04,32.72,30.24,Franco Arcilloso,0.1
 Rene Boanerge Mendoza,Pasto,Guapotalito,PAS25,otro,7.5,3.62,0.18,38.6,0.505,29.836,4.146,166.1,6.9,3.3,81.4,1.33,39.04,32.72,28.24,Franco Arcilloso,0.1
 Javier Castro Arauz,Pasto,Guapotalito,PAS26,otro,6.5,2.36,0.12,4.5,0.142,19.425,5.379,166.5,4.6,0.3,114.9,1.31,49.04,28.72,22.24,Arcilloso,0.6
-Otoniel Chavarria Herrera,Pasto,Guapotalito,PAS27,otro,6.2,2.87,0.14,4.0,0.325,18.700,6.111,168.2,5.6,2.8,107.7,1.30,51.04,28.72,20.24,Arcilloso,0.4
-Emir Chavarria Herrera,Pasto,Guapotalito,PAS28,otro,6.5,2.59,0.13,15.5,1.305,24.466,6.559,186.3,4.1,1.6,71.4,1.20,35.04,26.72,38.24,Franco Arcilloso,0.6
-Bismark Castro Arauz,Pasto,Guapotalito,PAS29,otro,6.3,3.06,0.15,4.0,0.251,16.028,7.130,175.3,6.3,1.4,98.7,0.93,49.04,36.72,14.24,Arcilloso,0.8
-Marcos Gutierrez Sequiera ,Pasto,Guapotalito,PAS30,otro,6.4,3.44,0.17,4.5,0.304,18.391,7.838,178.2,5.4,0.5,86.1,1.32,40.48,40.00,19.52,Arcilloso,0.9
-Patrocinia Martinez Centeno,Cacao,El Consuelo,CAC01,otro,6.0,4.28,0.21,3.6,0.628,8.237,4.790,139.0,8.3,6.7,130.9,1.20,40.48,40.00,19.52,Arcilloso,0.6
-Jhony Aguilar Salgado,Cacao,San Benito ,CAC02,otro,6.0,3.85,0.19,32.8,0.587,8.652,3.132,142.3,9.4,13.1,131.8,1.24,42.48,38.00,19.52,Arcilloso,0.6
-Jader Israel Arcedas ,Cacao,El Consuelo,CAC03,otro,6.3,4.75,0.24,6.7,1.790,11.102,5.636,174.7,3.4,5.8,117.3,1.13,32.48,44.00,23.52,Franco Arcilloso,0.6
-Jairo Gonzalez Garcia,Cacao,El Consuelo,CAC04,otro,6.2,4.01,0.20,3.4,1.276,6.906,3.136,149.8,10.0,7.7,130.0,1.24,38.48,39.28,22.24,Franco Arcilloso,0.6
-Emiliano Garcia Murillo,Cacao,El Consuelo,CAC05,otro,5.7,4.72,0.24,2.7,0.605,6.873,3.711,145.1,8.5,5.5,128.8,1.20,36.48,40.00,23.52,Franco Arcilloso,0.6
-Santos Garcias Murillo,Cacao,El Consuelo,CAC06,otro,5.7,4.10,0.20,3.7,0.374,7.697,3.207,156.3,6.4,4.6,105.1,1.23,30.48,36.00,33.52,Franco Arcilloso,0.9
-Genara Garcia Murillo,Cacao,El Consuelo,CAC07,otro,5.8,3.98,0.20,4.2,0.530,15.584,9.188,160.4,6.8,5.1,115.1,1.27,42.48,35.28,22.24,Arcilloso,0.7
-Eduarda Garcia Murillo,Cacao,El Consuelo,CAC08,otro,5.8,4.51,0.23,3.5,0.512,11.925,6.811,159.8,6.5,1.0,98.4,1.24,46.48,35.28,18.24,Arcilloso,0.9
-Pedro Joaquin Cru Hdez,Cacao,El Consuelo,CAC09,otro,6.3,4.75,0.24,11.1,0.589,21.501,5.893,169.9,5.7,24.7,121.5,1.11,28.48,38.00,33.52,Franco Arcilloso,0.7
-Paula Godinez Perez,Cacao,El Consuelo,CAC10,otro,6.0,3.80,0.19,15.6,1.669,28.887,10.916,171.3,6.7,4.7,102.8,1.20,26.48,41.28,32.24,Franco,0.6
+Otoniel Chavarria Herrera,Pasto,Guapotalito,PAS27,otro,6.2,2.87,0.14,4,0.325,18.7,6.111,168.2,5.6,2.8,107.7,1.3,51.04,28.72,20.24,Arcilloso,0.4
+Emir Chavarria Herrera,Pasto,Guapotalito,PAS28,otro,6.5,2.59,0.13,15.5,1.305,24.466,6.559,186.3,4.1,1.6,71.4,1.2,35.04,26.72,38.24,Franco Arcilloso,0.6
+Bismark Castro Arauz,Pasto,Guapotalito,PAS29,otro,6.3,3.06,0.15,4,0.251,16.028,7.13,175.3,6.3,1.4,98.7,0.93,49.04,36.72,14.24,Arcilloso,0.8
+Marcos Gutierrez Sequiera ,Pasto,Guapotalito,PAS30,otro,6.4,3.44,0.17,4.5,0.304,18.391,7.838,178.2,5.4,0.5,86.1,1.32,40.48,40,19.52,Arcilloso,0.9
+Patrocinia Martinez Centeno,Cacao,El Consuelo,CAC01,otro,6,4.28,0.21,3.6,0.628,8.237,4.79,139,8.3,6.7,130.9,1.2,40.48,40,19.52,Arcilloso,0.6
+Jhony Aguilar Salgado,Cacao,San Benito ,CAC02,otro,6,3.85,0.19,32.8,0.587,8.652,3.132,142.3,9.4,13.1,131.8,1.24,42.48,38,19.52,Arcilloso,0.6
+Jader Israel Arcedas ,Cacao,El Consuelo,CAC03,otro,6.3,4.75,0.24,6.7,1.79,11.102,5.636,174.7,3.4,5.8,117.3,1.13,32.48,44,23.52,Franco Arcilloso,0.6
+Jairo Gonzalez Garcia,Cacao,El Consuelo,CAC04,otro,6.2,4.01,0.2,3.4,1.276,6.906,3.136,149.8,10,7.7,130,1.24,38.48,39.28,22.24,Franco Arcilloso,0.6
+Emiliano Garcia Murillo,Cacao,El Consuelo,CAC05,otro,5.7,4.72,0.24,2.7,0.605,6.873,3.711,145.1,8.5,5.5,128.8,1.2,36.48,40,23.52,Franco Arcilloso,0.6
+Santos Garcias Murillo,Cacao,El Consuelo,CAC06,otro,5.7,4.1,0.2,3.7,0.374,7.697,3.207,156.3,6.4,4.6,105.1,1.23,30.48,36,33.52,Franco Arcilloso,0.9
+Genara Garcia Murillo,Cacao,El Consuelo,CAC07,otro,5.8,3.98,0.2,4.2,0.53,15.584,9.188,160.4,6.8,5.1,115.1,1.27,42.48,35.28,22.24,Arcilloso,0.7
+Eduarda Garcia Murillo,Cacao,El Consuelo,CAC08,otro,5.8,4.51,0.23,3.5,0.512,11.925,6.811,159.8,6.5,1,98.4,1.24,46.48,35.28,18.24,Arcilloso,0.9
+Pedro Joaquin Cru Hdez,Cacao,El Consuelo,CAC09,otro,6.3,4.75,0.24,11.1,0.589,21.501,5.893,169.9,5.7,24.7,121.5,1.11,28.48,38,33.52,Franco Arcilloso,0.7
+Paula Godinez Perez,Cacao,El Consuelo,CAC10,otro,6,3.8,0.19,15.6,1.669,28.887,10.916,171.3,6.7,4.7,102.8,1.2,26.48,41.28,32.24,Franco,0.6
 Nicasio Dia orozco,Cacao,El Consuelo,CAC11,otro,6.6,4.89,0.24,7.7,1.853,22.788,7.064,178.4,6.5,4.3,130.7,1.18,22.48,43.28,34.24,Franco,0.6
-Jasmina del socorro Castillo Jiron,Cacao,El Consuelo,CAC12,otro,6.1,3.57,0.18,3.9,1.615,20.060,7.786,155.9,5.9,5.1,122.7,1.26,42.48,32.00,25.52,Arcilloso,0.6
-Ricardo Mairena Tellez,Cacao,Aguas Amarillas dos,CAC13,otro,6.3,4.11,0.21,9.3,0.716,26.043,6.270,171.6,4.8,2.3,96.6,1.28,30.48,42.00,27.52,Franco Arcilloso,0.8
-Reynadlo Rivera  Ramos,Cacao,Aguas Amarillas dos,CAC14,otro,6.0,4.42,0.22,6.1,1.132,15.974,5.820,173.2,6.9,5.1,108.9,1.16,26.48,38.00,35.52,Franco,0.6
-Gerardo Gonzales Huete,Cacao,Aguas Amarillas dos,CAC15,otro,6.3,3.29,0.16,5.4,0.497,13.403,5.794,166.0,6.0,1.8,90.1,1.21,30.48,44.00,25.52,Franco Arcilloso,0.4
-Vicente Gonzales Huete,Cacao,Aguas Amarillas dos,CAC16,otro,6.2,3.28,0.16,5.3,2.028,19.616,4.130,165.7,5.2,2.8,101.4,1.13,36.48,38.00,25.52,Franco Arcilloso,0.7
-Isidro Gonzales Huete,Cacao,Aguas Amarillas dos,CAC17,otro,6.3,4.86,0.24,3.3,0.727,15.154,4.066,169.6,10.1,8.7,130.3,1.24,44.48,38.00,17.52,Arcilloso,0.6
-Marlon Baldivia Contreras,Cacao,Aguas Amarillas dos,CAC18,otro,6.1,6.24,0.31,5.3,0.823,15.446,5.524,154.4,8.0,10.2,118.0,1.06,40.48,35.28,24.24,Arcilloso,0.6
+Jasmina del socorro Castillo Jiron,Cacao,El Consuelo,CAC12,otro,6.1,3.57,0.18,3.9,1.615,20.06,7.786,155.9,5.9,5.1,122.7,1.26,42.48,32,25.52,Arcilloso,0.6
+Ricardo Mairena Tellez,Cacao,Aguas Amarillas dos,CAC13,otro,6.3,4.11,0.21,9.3,0.716,26.043,6.27,171.6,4.8,2.3,96.6,1.28,30.48,42,27.52,Franco Arcilloso,0.8
+Reynadlo Rivera  Ramos,Cacao,Aguas Amarillas dos,CAC14,otro,6,4.42,0.22,6.1,1.132,15.974,5.82,173.2,6.9,5.1,108.9,1.16,26.48,38,35.52,Franco,0.6
+Gerardo Gonzales Huete,Cacao,Aguas Amarillas dos,CAC15,otro,6.3,3.29,0.16,5.4,0.497,13.403,5.794,166,6,1.8,90.1,1.21,30.48,44,25.52,Franco Arcilloso,0.4
+Vicente Gonzales Huete,Cacao,Aguas Amarillas dos,CAC16,otro,6.2,3.28,0.16,5.3,2.028,19.616,4.13,165.7,5.2,2.8,101.4,1.13,36.48,38,25.52,Franco Arcilloso,0.7
+Isidro Gonzales Huete,Cacao,Aguas Amarillas dos,CAC17,otro,6.3,4.86,0.24,3.3,0.727,15.154,4.066,169.6,10.1,8.7,130.3,1.24,44.48,38,17.52,Arcilloso,0.6
+Marlon Baldivia Contreras,Cacao,Aguas Amarillas dos,CAC18,otro,6.1,6.24,0.31,5.3,0.823,15.446,5.524,154.4,8,10.2,118,1.06,40.48,35.28,24.24,Arcilloso,0.6
 Jose Maria Sotelo Herrera,Cacao,Aguas Amarillas dos,CAC19,otro,6.1,5.59,0.28,9.5,0.454,15.598,4.894,176.2,6.9,5.1,107.8,1.13,26.48,45.28,28.24,Franco,0.6
-Lucas Uriel Dormuz Soza,Cacao,Wasaka Abajo,CAC20,otro,6.6,2.60,0.13,15.5,0.574,11.277,3.117,171.5,4.4,4.6,113.2,1.23,26.48,35.28,38.24,Franco,0.6
-Mercedes Montenegro Pineda,Cacao,Wasaka Abajo,CAC21,otro,6.4,3.05,0.15,6.7,0.475,10.841,4.119,180.8,4.7,8.8,128.6,1.20,36.48,33.28,30.24,Franco Arcilloso,0.6
-Roberto Mairena Montenegro,Cacao,Wasaka Abajo,CAC22,otro,7.1,3.61,0.18,86.6,1.201,28.588,4.787,177.7,9.2,4.3,102.5,1.20,33.20,41.28,25.52,Franco Arcilloso,0.1
-Gaspar Mairena Montenegro,Cacao,Wasaka Abajo,CAC23,otro,6.8,4.03,0.20,20.4,0.759,22.995,5.730,166.9,8.4,3.3,120.2,1.21,39.20,40.56,20.24,Franco Limoso Arcilloso,0.3
-Karen Lucia Centeno Flores,Cacao,Wasaka Abajo,CAC24,otro,6.3,3.47,0.17,21.9,0.624,13.533,4.008,165.1,8.0,5.1,114.9,1.27,33.20,42.56,24.24,Franco Arcilloso,0.6
-Jorge Mairena Montenegro,Cacao,Wasaka Abajo,CAC25,otro,6.5,3.94,0.20,12.2,0.784,17.464,4.001,183.1,8.6,5.2,124.5,1.19,39.20,38.56,22.24,Franco Arcilloso,0.8
-Eveling Vanessa Mairena Mercado,Cacao,Wasaka Abajo,CAC26,otro,6.5,2.85,0.14,38.5,2.184,15.594,4.017,162.8,3.9,7.6,108.8,1.13,41.20,29.28,29.52,Arcilloso,0.7
-Alvaro Enrrique Mangas Guido,Cacao,Aguas Amarillas dos,CAC27,otro,6.1,2.59,0.13,7.8,0.831,29.288,9.489,180.8,4.5,5.8,126.2,1.18,44.48,30.00,25.52,Arcilloso,0.9
-Santos Centeno Castro,Cacao,Aguas Amarillas dos,CAC28,otro,6.3,3.00,0.15,4.8,0.566,12.876,4.924,184.4,5.6,5.4,127.7,1.25,44.48,34.00,21.52,Arcilloso,0.8
-Winston Isaac Vilchez Gonzalez,Cacao,Guapotal Central,CAC29,otro,6.3,4.32,0.22,7.3,0.899,12.805,3.178,182.5,8.8,10.3,131.0,1.16,38.48,39.28,22.24,Franco Arcilloso,0.9
-Bertha Perez Gutierrez,Cacao,Hilipo no 1,CAC30,otro,6.4,3.83,0.19,14.7,0.647,23.898,7.033,178.3,6.5,3.9,107.1,1.20,40.48,31.28,28.24,Arcilloso,0.7
-David Arceda Herrera,Cafe,El Consuelo,CAF01,otro,6.1,3.80,0.19,4.5,0.380,8.815,3.169,181.7,8.8,4.9,130.5,1.21,49.20,33.28,17.52,Arcilloso,0.9
-Abel Ramos Gonzales,Cafe,El Consuelo,CAF02,otro,6.3,3.95,0.20,4.4,0.598,9.487,3.518,148.3,6.2,2.5,131.7,1.22,55.20,29.28,15.52,Arcilloso,0.6
-Wilder Jhonson Salgado Flores ,Cafe,El Consuelo,CAF03,otro,5.9,3.47,0.17,4.0,0.543,8.988,2.911,137.9,7.0,4.1,124.4,1.28,49.20,36.56,14.24,Arcilloso,0.7
-Sarahi Herrera Lanzas,Cafe,El Consuelo,CAF04,otro,6.0,4.21,0.21,2.7,0.365,9.508,4.023,146.1,11.8,5.9,119.6,1.22,43.20,35.28,21.52,Arcilloso,0.9
-Amado Lopez,Cafe,El Consuelo,CAF05,otro,5.7,4.58,0.23,4.5,0.400,11.600,4.151,167.9,5.7,3.3,77.1,1.22,45.76,28.72,25.52,Arcilloso,1.1
+Lucas Uriel Dormuz Soza,Cacao,Wasaka Abajo,CAC20,otro,6.6,2.6,0.13,15.5,0.574,11.277,3.117,171.5,4.4,4.6,113.2,1.23,26.48,35.28,38.24,Franco,0.6
+Mercedes Montenegro Pineda,Cacao,Wasaka Abajo,CAC21,otro,6.4,3.05,0.15,6.7,0.475,10.841,4.119,180.8,4.7,8.8,128.6,1.2,36.48,33.28,30.24,Franco Arcilloso,0.6
+Roberto Mairena Montenegro,Cacao,Wasaka Abajo,CAC22,otro,7.1,3.61,0.18,86.6,1.201,28.588,4.787,177.7,9.2,4.3,102.5,1.2,33.2,41.28,25.52,Franco Arcilloso,0.1
+Gaspar Mairena Montenegro,Cacao,Wasaka Abajo,CAC23,otro,6.8,4.03,0.2,20.4,0.759,22.995,5.73,166.9,8.4,3.3,120.2,1.21,39.2,40.56,20.24,Franco Limoso Arcilloso,0.3
+Karen Lucia Centeno Flores,Cacao,Wasaka Abajo,CAC24,otro,6.3,3.47,0.17,21.9,0.624,13.533,4.008,165.1,8,5.1,114.9,1.27,33.2,42.56,24.24,Franco Arcilloso,0.6
+Jorge Mairena Montenegro,Cacao,Wasaka Abajo,CAC25,otro,6.5,3.94,0.2,12.2,0.784,17.464,4.001,183.1,8.6,5.2,124.5,1.19,39.2,38.56,22.24,Franco Arcilloso,0.8
+Eveling Vanessa Mairena Mercado,Cacao,Wasaka Abajo,CAC26,otro,6.5,2.85,0.14,38.5,2.184,15.594,4.017,162.8,3.9,7.6,108.8,1.13,41.2,29.28,29.52,Arcilloso,0.7
+Alvaro Enrrique Mangas Guido,Cacao,Aguas Amarillas dos,CAC27,otro,6.1,2.59,0.13,7.8,0.831,29.288,9.489,180.8,4.5,5.8,126.2,1.18,44.48,30,25.52,Arcilloso,0.9
+Santos Centeno Castro,Cacao,Aguas Amarillas dos,CAC28,otro,6.3,3,0.15,4.8,0.566,12.876,4.924,184.4,5.6,5.4,127.7,1.25,44.48,34,21.52,Arcilloso,0.8
+Winston Isaac Vilchez Gonzalez,Cacao,Guapotal Central,CAC29,otro,6.3,4.32,0.22,7.3,0.899,12.805,3.178,182.5,8.8,10.3,131,1.16,38.48,39.28,22.24,Franco Arcilloso,0.9
+Bertha Perez Gutierrez,Cacao,Hilipo no 1,CAC30,otro,6.4,3.83,0.19,14.7,0.647,23.898,7.033,178.3,6.5,3.9,107.1,1.2,40.48,31.28,28.24,Arcilloso,0.7
+David Arceda Herrera,Cafe,El Consuelo,CAF01,otro,6.1,3.8,0.19,4.5,0.38,8.815,3.169,181.7,8.8,4.9,130.5,1.21,49.2,33.28,17.52,Arcilloso,0.9
+Abel Ramos Gonzales,Cafe,El Consuelo,CAF02,otro,6.3,3.95,0.2,4.4,0.598,9.487,3.518,148.3,6.2,2.5,131.7,1.22,55.2,29.28,15.52,Arcilloso,0.6
+Wilder Jhonson Salgado Flores ,Cafe,El Consuelo,CAF03,otro,5.9,3.47,0.17,4,0.543,8.988,2.911,137.9,7,4.1,124.4,1.28,49.2,36.56,14.24,Arcilloso,0.7
+Sarahi Herrera Lanzas,Cafe,El Consuelo,CAF04,otro,6,4.21,0.21,2.7,0.365,9.508,4.023,146.1,11.8,5.9,119.6,1.22,43.2,35.28,21.52,Arcilloso,0.9
+Amado Lopez,Cafe,El Consuelo,CAF05,otro,5.7,4.58,0.23,4.5,0.4,11.6,4.151,167.9,5.7,3.3,77.1,1.22,45.76,28.72,25.52,Arcilloso,1.1
 Linoc de Fatima Mendoza Martinez,Cafe,El Consuelo,CAF06,otro,6.3,4.75,0.24,5.8,2.624,14.875,5.751,173.5,13.2,8.4,112.1,1.21,43.04,39.44,17.52,Arcilloso,0.9
 Maira Ileana Perez ,Cafe,El Consuelo,CAF07,otro,5.8,3.08,0.15,4.9,0.656,12.269,3.805,163.2,4.9,3.6,113.4,1.22,41.04,33.44,25.52,Arcilloso,0.9
-Julia Valdes Vallejos ,Cafe,El Consuelo,CAF08,otro,5.9,4.45,0.22,3.8,0.926,17.844,5.923,173.5,7.2,6.0,114.4,1.22,45.04,39.44,15.52,Arcilloso,0.8
-Ninfa del carmen Hurtado Rizo ,Cafe,El Consuelo,CAF09,otro,6.0,3.98,0.20,4.5,0.902,9.832,3.136,169.8,7.8,2.7,130.0,1.16,51.04,33.44,15.52,Arcilloso,0.8
-Marcelino Jaime Gonzales Cruz,Cafe,Aguas Amarillas dos,CAF10,otro,6.1,6.08,0.30,10.0,0.433,23.960,7.904,166.9,5.5,4.5,89.7,1.22,35.04,33.44,31.52,Franco Arcilloso,0.8
+Julia Valdes Vallejos ,Cafe,El Consuelo,CAF08,otro,5.9,4.45,0.22,3.8,0.926,17.844,5.923,173.5,7.2,6,114.4,1.22,45.04,39.44,15.52,Arcilloso,0.8
+Ninfa del carmen Hurtado Rizo ,Cafe,El Consuelo,CAF09,otro,6,3.98,0.2,4.5,0.902,9.832,3.136,169.8,7.8,2.7,130,1.16,51.04,33.44,15.52,Arcilloso,0.8
+Marcelino Jaime Gonzales Cruz,Cafe,Aguas Amarillas dos,CAF10,otro,6.1,6.08,0.3,10,0.433,23.96,7.904,166.9,5.5,4.5,89.7,1.22,35.04,33.44,31.52,Franco Arcilloso,0.8
 Denis Martinez Lazo,Cafe,Aguas Amarillas dos,CAF11,otro,5.9,3.87,0.19,6.4,0.761,18.946,6.739,173.7,3.5,5.2,89.7,1.22,47.04,27.44,25.52,Arcilloso,0.7
-Aurelio Blandon Lopez ,Cafe,Aguas Amarillas dos,CAF12,otro,6.0,3.38,0.17,7.6,0.342,20.327,6.336,181.7,4.6,2.8,107.6,1.18,51.76,26.72,21.52,Arcilloso,0.9
-Pedro Javier Martinez Zamora,Cafe,Aguas Amarillas dos,CAF13,otro,6.1,3.60,0.18,12.2,0.491,20.507,6.527,177.3,4.0,5.1,78.6,1.18,47.04,29.44,23.52,Arcilloso,0.8
+Aurelio Blandon Lopez ,Cafe,Aguas Amarillas dos,CAF12,otro,6,3.38,0.17,7.6,0.342,20.327,6.336,181.7,4.6,2.8,107.6,1.18,51.76,26.72,21.52,Arcilloso,0.9
+Pedro Javier Martinez Zamora,Cafe,Aguas Amarillas dos,CAF13,otro,6.1,3.6,0.18,12.2,0.491,20.507,6.527,177.3,4,5.1,78.6,1.18,47.04,29.44,23.52,Arcilloso,0.8
 Santos Gmercinda Rios ,Cafe,Aguas Amarillas dos,CAF14,otro,5.9,2.61,0.13,5.3,0.643,21.854,7.229,186.2,3.6,1.9,94.5,1.18,47.04,27.44,25.52,Arcilloso,0.9
-German Mendoza Lopez,Cafe,Aguas Amarillas dos,CAF15,otro,5.9,3.67,0.18,4.9,0.609,20.658,6.747,177.4,4.4,1.7,91.8,1.20,49.76,26.72,23.52,Arcilloso,0.9
-Henrry Rivera Martinez ,Cafe,San Benito ,CAF16,otro,6.0,3.37,0.17,6.8,0.460,12.718,4.815,174.2,5.5,6.3,120.0,1.18,47.76,28.72,23.52,Arcilloso,0.8
-Pedro Jose Zeledon Diaz,Cafe,San Benito ,CAF17,otro,6.0,4.66,0.23,9.2,0.681,13.136,3.778,172.6,5.6,4.4,115.5,1.14,45.76,34.00,20.24,Arcilloso,0.9
-Eleuterio Sevilla Perez,Cafe,San Benito ,CAF18,otro,6.3,2.07,0.10,32.7,0.490,15.107,3.375,175.6,7.2,7.8,108.8,1.22,43.76,22.72,33.52,Arcilloso,0.8
-Juana Mercedes Garcia Lopez,Cafe,San Benito ,CAF19,otro,6.1,3.26,0.16,4.9,0.565,8.515,2.634,178.7,8.8,8.3,131.0,1.18,45.04,35.44,19.52,Arcilloso,0.6
-Noel Rodriguez Chavarria,Cafe,San Benito ,CAF20,otro,7.5,3.10,0.15,93.7,0.979,21.826,2.783,158.1,7.5,6.8,90.5,1.20,33.04,26.72,40.24,Franco Arcilloso,0.1
+German Mendoza Lopez,Cafe,Aguas Amarillas dos,CAF15,otro,5.9,3.67,0.18,4.9,0.609,20.658,6.747,177.4,4.4,1.7,91.8,1.2,49.76,26.72,23.52,Arcilloso,0.9
+Henrry Rivera Martinez ,Cafe,San Benito ,CAF16,otro,6,3.37,0.17,6.8,0.46,12.718,4.815,174.2,5.5,6.3,120,1.18,47.76,28.72,23.52,Arcilloso,0.8
+Pedro Jose Zeledon Diaz,Cafe,San Benito ,CAF17,otro,6,4.66,0.23,9.2,0.681,13.136,3.778,172.6,5.6,4.4,115.5,1.14,45.76,34,20.24,Arcilloso,0.9
+Eleuterio Sevilla Perez,Cafe,San Benito ,CAF18,otro,6.3,2.07,0.1,32.7,0.49,15.107,3.375,175.6,7.2,7.8,108.8,1.22,43.76,22.72,33.52,Arcilloso,0.8
+Juana Mercedes Garcia Lopez,Cafe,San Benito ,CAF19,otro,6.1,3.26,0.16,4.9,0.565,8.515,2.634,178.7,8.8,8.3,131,1.18,45.04,35.44,19.52,Arcilloso,0.6
+Noel Rodriguez Chavarria,Cafe,San Benito ,CAF20,otro,7.5,3.1,0.15,93.7,0.979,21.826,2.783,158.1,7.5,6.8,90.5,1.2,33.04,26.72,40.24,Franco Arcilloso,0.1
 Catalina Granados Lopez,Cafe,San Benito ,CAF21,otro,6.1,4.16,0.21,5.9,0.671,17.234,6.291,165.7,4.3,2.2,98.7,1.19,45.04,29.44,25.52,Arcilloso,0.9
-Francisco Cruz Contreras,Cafe,San Benito ,CAF22,otro,6.1,3.61,0.18,4.1,0.546,9.156,3.175,179.9,9.1,8.0,132.3,1.24,57.04,29.44,13.52,Arcilloso,0.8
+Francisco Cruz Contreras,Cafe,San Benito ,CAF22,otro,6.1,3.61,0.18,4.1,0.546,9.156,3.175,179.9,9.1,8,132.3,1.24,57.04,29.44,13.52,Arcilloso,0.8
 Israel Garcia Lopez,Cafe,San Benito ,CAF23,otro,7.6,3.84,0.19,11.2,1.071,28.942,2.767,137.1,11.3,13.8,129.4,1.12,41.04,35.44,23.52,Arcilloso,0.1
-Martin de Jesus Rayo Chavarria,Cafe,San Benito ,CAF24,otro,6.2,2.74,0.14,4.0,0.637,10.014,4.094,107.9,6.2,9.2,128.3,1.24,43.04,37.44,19.52,Arcilloso,0.7
-Denis Rayo Chavarria,Cafe,San Benito ,CAF25,otro,6.1,3.23,0.16,4.1,0.640,9.000,3.034,171.7,6.7,7.9,126.8,1.23,37.04,39.44,23.52,Franco Arcilloso,0.9
-Genaro Rayo Chavarria,Cafe,San Benito ,CAF26,otro,6.2,3.98,0.20,4.4,0.956,10.421,3.073,172.4,7.4,6.4,124.7,1.14,45.04,34.72,20.24,Arcilloso,0.9
-Maximo Sevilla Perez,Cafe,San Benito ,CAF27,otro,6.3,4.22,0.21,7.9,0.613,14.047,4.427,171.6,6.3,5.7,114.1,1.20,41.04,30.72,28.24,Arcilloso,1.0
-Julio Ariel Sequiera Castro,Cafe,San Benito ,CAF28,otro,7.3,3.50,0.18,109.6,0.726,23.061,2.254,179.3,9.2,12.2,120.6,1.16,41.04,28.72,30.24,Arcilloso,0.1
-Manuel Garcia,Cafe,San Benito ,CAF29,otro,6.1,2.92,0.15,54.7,0.713,13.618,3.056,166.3,7.8,9.0,102.8,1.22,45.04,24.72,30.24,Arcilloso,0.9
-Felix Pedro Meza Rojas,Cafe,San Benito ,CAF30,otro,6.5,4.49,0.22,55.7,3.141,16.735,4.231,184.0,3.7,12.0,86.0,1.16,41.04,28.72,30.24,Arcilloso,0.8
-Harol Esmilton Garcia Hernandez,Cafe,San Benito ,CAF31,otro,6.2,3.93,0.20,7.0,0.477,16.020,5.190,189.9,4.2,5.3,100.0,1.06,43.04,32.72,24.24,Arcilloso,0.9
-Bonifacio Garcia ,Cafe,San Benito ,CAF32,otro,6.3,3.28,0.16,13.5,0.814,18.693,4.302,186.2,9.0,5.0,99.7,1.13,47.04,26.72,26.24,Arcilloso,0.8
-Henrry Uriel Hogking,Cafe,San Benito ,CAF33,otro,6.2,2.54,0.13,10.5,1.016,18.266,4.901,173.4,4.9,2.0,91.6,1.20,41.04,26.72,32.24,Arcilloso,0.8
-Basilicio Suazo Guido ,Cafe,Hilipo no 2,CAF34,otro,5.9,3.90,0.20,5.9,0.558,10.392,3.643,158.8,5.3,1.6,81.9,1.25,53.04,24.72,22.24,Arcilloso,0.7
-Justo Pastor Suazo,Cafe,Hilipo no 2,CAF35,otro,6.0,3.83,0.19,8.9,0.998,11.360,3.454,164.6,5.3,6.3,96.9,1.17,43.04,30.72,26.24,Arcilloso,0.9
-Adolfo Jose Lopez,Cafe,Aguas Amarillas dos,CAF36,otro,5.7,3.11,0.16,7.4,0.533,24.040,9.353,170.0,3.3,2.3,74.9,1.19,53.04,22.72,24.24,Arcilloso,1.1
-Domino Acuña Ponce,Cafe,Aguas Amarillas dos,CAF37,otro,5.9,3.01,0.15,9.0,1.007,24.459,6.682,178.9,5.1,3.8,102.9,1.17,59.04,14.72,26.24,Arcilloso,0.9
-Eugenio Suazo Lopez,Cafe,Hilipo No 2,CAF38,otro,5.8,5.79,0.29,5.6,0.508,11.714,3.458,170.4,6.5,5.0,111.4,1.17,51.04,30.00,18.96,Arcilloso,1.0
-Maria Isabel Suazo,Cafe,Hilipo No 2,CAF39,otro,5.7,3.61,0.18,6.1,0.511,9.784,3.331,177.0,3.7,3.7,93.8,1.18,55.04,30.72,14.24,Arcilloso,0.9
-Alberto Travers Martinez ,Cafe,San Benito ,CAF40,otro,6.9,4.36,0.22,7.1,0.598,12.431,3.579,177.0,8.7,11.7,134.8,1.14,33.76,46.00,20.24,Franco Limoso Arcilloso,0.9
-Julio Cesar Ochoa Garcia,Cafe,San Benito ,CAF41,otro,5.9,2.92,0.15,5.6,0.444,13.883,4.847,169.5,5.2,4.2,119.7,1.15,37.76,42.00,20.24,Franco Limoso Arcilloso,0.7
-Donaldo hernandez Torrez,Cafe,La Medalla,CAF42,otro,6.1,6.87,0.34,7.9,0.720,16.576,4.710,172.2,5.2,6.6,113.2,1.12,19.76,40.00,40.24,Franco,0.9
-Mario Enrrique Hernandez Torrez,Cafe,La Medalla,CAF43,otro,5.5,6.42,0.32,11.9,0.376,11.026,3.702,169.2,2.9,3.4,50.0,1.05,17.76,38.00,44.24,Franco,0.9
-Dimas Orland Cruz Altamirano,Cafe,Aguas Amarillas dos,CAF44,otro,6.4,1.46,0.07,6.1,0.252,17.370,5.256,162.4,5.6,0.9,93.5,1.26,36.48,41.28,22.24,Franco Arcilloso,0.9
+Martin de Jesus Rayo Chavarria,Cafe,San Benito ,CAF24,otro,6.2,2.74,0.14,4,0.637,10.014,4.094,107.9,6.2,9.2,128.3,1.24,43.04,37.44,19.52,Arcilloso,0.7
+Denis Rayo Chavarria,Cafe,San Benito ,CAF25,otro,6.1,3.23,0.16,4.1,0.64,9,3.034,171.7,6.7,7.9,126.8,1.23,37.04,39.44,23.52,Franco Arcilloso,0.9
+Genaro Rayo Chavarria,Cafe,San Benito ,CAF26,otro,6.2,3.98,0.2,4.4,0.956,10.421,3.073,172.4,7.4,6.4,124.7,1.14,45.04,34.72,20.24,Arcilloso,0.9
+Maximo Sevilla Perez,Cafe,San Benito ,CAF27,otro,6.3,4.22,0.21,7.9,0.613,14.047,4.427,171.6,6.3,5.7,114.1,1.2,41.04,30.72,28.24,Arcilloso,1
+Julio Ariel Sequiera Castro,Cafe,San Benito ,CAF28,otro,7.3,3.5,0.18,109.6,0.726,23.061,2.254,179.3,9.2,12.2,120.6,1.16,41.04,28.72,30.24,Arcilloso,0.1
+Manuel Garcia,Cafe,San Benito ,CAF29,otro,6.1,2.92,0.15,54.7,0.713,13.618,3.056,166.3,7.8,9,102.8,1.22,45.04,24.72,30.24,Arcilloso,0.9
+Felix Pedro Meza Rojas,Cafe,San Benito ,CAF30,otro,6.5,4.49,0.22,55.7,3.141,16.735,4.231,184,3.7,12,86,1.16,41.04,28.72,30.24,Arcilloso,0.8
+Harol Esmilton Garcia Hernandez,Cafe,San Benito ,CAF31,otro,6.2,3.93,0.2,7,0.477,16.02,5.19,189.9,4.2,5.3,100,1.06,43.04,32.72,24.24,Arcilloso,0.9
+Bonifacio Garcia ,Cafe,San Benito ,CAF32,otro,6.3,3.28,0.16,13.5,0.814,18.693,4.302,186.2,9,5,99.7,1.13,47.04,26.72,26.24,Arcilloso,0.8
+Henrry Uriel Hogking,Cafe,San Benito ,CAF33,otro,6.2,2.54,0.13,10.5,1.016,18.266,4.901,173.4,4.9,2,91.6,1.2,41.04,26.72,32.24,Arcilloso,0.8
+Basilicio Suazo Guido ,Cafe,Hilipo no 2,CAF34,otro,5.9,3.9,0.2,5.9,0.558,10.392,3.643,158.8,5.3,1.6,81.9,1.25,53.04,24.72,22.24,Arcilloso,0.7
+Justo Pastor Suazo,Cafe,Hilipo no 2,CAF35,otro,6,3.83,0.19,8.9,0.998,11.36,3.454,164.6,5.3,6.3,96.9,1.17,43.04,30.72,26.24,Arcilloso,0.9
+Adolfo Jose Lopez,Cafe,Aguas Amarillas dos,CAF36,otro,5.7,3.11,0.16,7.4,0.533,24.04,9.353,170,3.3,2.3,74.9,1.19,53.04,22.72,24.24,Arcilloso,1.1
+Domino Acuña Ponce,Cafe,Aguas Amarillas dos,CAF37,otro,5.9,3.01,0.15,9,1.007,24.459,6.682,178.9,5.1,3.8,102.9,1.17,59.04,14.72,26.24,Arcilloso,0.9
+Eugenio Suazo Lopez,Cafe,Hilipo No 2,CAF38,otro,5.8,5.79,0.29,5.6,0.508,11.714,3.458,170.4,6.5,5,111.4,1.17,51.04,30,18.96,Arcilloso,1
+Maria Isabel Suazo,Cafe,Hilipo No 2,CAF39,otro,5.7,3.61,0.18,6.1,0.511,9.784,3.331,177,3.7,3.7,93.8,1.18,55.04,30.72,14.24,Arcilloso,0.9
+Alberto Travers Martinez ,Cafe,San Benito ,CAF40,otro,6.9,4.36,0.22,7.1,0.598,12.431,3.579,177,8.7,11.7,134.8,1.14,33.76,46,20.24,Franco Limoso Arcilloso,0.9
+Julio Cesar Ochoa Garcia,Cafe,San Benito ,CAF41,otro,5.9,2.92,0.15,5.6,0.444,13.883,4.847,169.5,5.2,4.2,119.7,1.15,37.76,42,20.24,Franco Limoso Arcilloso,0.7
+Donaldo hernandez Torrez,Cafe,La Medalla,CAF42,otro,6.1,6.87,0.34,7.9,0.72,16.576,4.71,172.2,5.2,6.6,113.2,1.12,19.76,40,40.24,Franco,0.9
+Mario Enrrique Hernandez Torrez,Cafe,La Medalla,CAF43,otro,5.5,6.42,0.32,11.9,0.376,11.026,3.702,169.2,2.9,3.4,50,1.05,17.76,38,44.24,Franco,0.9
+Dimas Orland Cruz Altamirano,Cafe,Aguas Amarillas dos,CAF44,otro,6.4,1.46,0.07,6.1,0.252,17.37,5.256,162.4,5.6,0.9,93.5,1.26,36.48,41.28,22.24,Franco Arcilloso,0.9
 Denis Sanchez ,Cafe,Aguas Amarillas dos,CAF45,otro,6.2,3.02,0.15,6.8,0.227,19.695,6.524,151.8,7.7,1.2,96.7,1.18,26.48,39.28,34.24,Franco,0.9
-Melvin Antonio Martinez ,Cafe,Aguas Amarillas dos,CAF46,otro,6.1,4.59,0.23,15.5,0.611,24.510,6.817,176.0,10.5,5.0,95.3,1.22,32.48,39.28,28.24,Franco Arcilloso,0.8
-Eriberto Rios ,Cafe,La Medalla,CAF47,otro,5.9,3.81,0.19,8.2,0.747,25.100,6.102,184.8,4.2,4.7,88.2,1.17,32.48,37.28,30.24,Franco Arcilloso,0.8
+Melvin Antonio Martinez ,Cafe,Aguas Amarillas dos,CAF46,otro,6.1,4.59,0.23,15.5,0.611,24.51,6.817,176,10.5,5,95.3,1.22,32.48,39.28,28.24,Franco Arcilloso,0.8
+Eriberto Rios ,Cafe,La Medalla,CAF47,otro,5.9,3.81,0.19,8.2,0.747,25.1,6.102,184.8,4.2,4.7,88.2,1.17,32.48,37.28,30.24,Franco Arcilloso,0.8
 Jose Guillermo Perez ,Cafe,La Medalla,CAF48,otro,6.4,4.48,0.22,12.4,1.119,15.127,4.756,167.4,4.8,4.6,66.8,1.17,26.48,39.28,34.24,Franco,0.9
-Celia del Carmen Hernandez,Cafe,La Medalla,CAF49,otro,5.9,2.85,0.14,8.3,0.244,8.570,3.904,175.0,2.6,1.9,90.3,1.14,34.48,37.28,28.24,Franco Arcilloso,0.9
-Abel Martinez Mendoza,Cafe,Yale No 2,CAF50,otro,5.9,2.37,0.12,6.8,1.035,17.521,5.757,181.4,4.4,2.0,81.2,1.14,36.48,33.28,30.24,Franco Arcilloso,0.9
+Celia del Carmen Hernandez,Cafe,La Medalla,CAF49,otro,5.9,2.85,0.14,8.3,0.244,8.57,3.904,175,2.6,1.9,90.3,1.14,34.48,37.28,28.24,Franco Arcilloso,0.9
+Abel Martinez Mendoza,Cafe,Yale No 2,CAF50,otro,5.9,2.37,0.12,6.8,1.035,17.521,5.757,181.4,4.4,2,81.2,1.14,36.48,33.28,30.24,Franco Arcilloso,0.9
